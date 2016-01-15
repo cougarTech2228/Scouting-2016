@@ -22,7 +22,10 @@ class Robot(object):
 	def points_per_sec(self):
 		return self.points / 150
 
-	
+	def get_name(self):
+		return self.name
+
+
 
 
 
