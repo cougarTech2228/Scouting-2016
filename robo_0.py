@@ -22,8 +22,17 @@ class Robot(object):
 	def points_per_sec(self):
 		return self.points / 150
 
+	def auto_points_per_sec(self):
+		return self.auto_points / 15
+
 	def get_name(self):
 		return self.name
+
+	def get_alliance(self):
+		return self.alliance
+
+
+
 
 
 
