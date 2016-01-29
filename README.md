@@ -2,3 +2,5 @@
 
 
 We shall succeed where in the past we have failed (twice).
+
+"There is nothing impossible to him who will try." - Alexander The Great
