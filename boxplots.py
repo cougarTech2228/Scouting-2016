@@ -16,3 +16,7 @@ def make_plots(data_groups):
 	"""Takes data groups created with make_data_groups and creates boxplots from them"""
 	figure = plot.boxplot(data_groups)
 	figure.show()
+
+def sort_plots(data_groups):
+	
+19dc20996adc95cdad4966a66414ae16fc6e886f
